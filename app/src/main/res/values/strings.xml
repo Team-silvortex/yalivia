@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">Yalivia</string>
+  <string name="open_input_settings">打开输入法设置</string>
+  <string name="preview">预览拼装结果</string>
+  <string name="commit">提交到输入框</string>
+  <string name="clearp">清空路径</string>
+</resources>
